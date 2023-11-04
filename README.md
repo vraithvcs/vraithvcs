@@ -9,3 +9,5 @@ vraithvcs/vraithvcs is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 hi, l am vraithvcs
+l am currently learning phyton
+
